@@ -10,3 +10,7 @@ In the following dashboard you can see the end- and startstations and the number
 
 ![](https://github.com/JoannePeel/Citi-Bikes/blob/master/stations.jpg)
 
+In the following dashboard you can observe usertype and user birth year.
+
+![](https://github.com/JoannePeel/Citi-Bikes/blob/master/users.jpg)
+
